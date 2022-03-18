@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-= Sweden =-" tvg-logo="https://cdn.countryflags.com/thumbs/sweden/flag-round-250.png" group-title="Sweden",-= Sweden =-
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8102
+#EXTINF:-1 tvg-id="" tvg-name="N1 Info & Updates SE" tvg-logo="https://i.ibb.co/7SfPngv/e.png" group-title="Sweden",N1 Info & Updates SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/61182
+#EXTINF:-1 tvg-id="" tvg-name="FLYING OVER SWEDEN ULTRA HD SE [Only On 4K Devices]" tvg-logo="" group-title="Sweden",FLYING OVER SWEDEN ULTRA HD SE [Only On 4K Devices]
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/217671
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 Skåne SE" tvg-logo="http://192.40.57.135/SE/svt1hd.png" group-title="Sweden",SVT1 Skåne SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/26592
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 HD SE" tvg-logo="http://192.40.57.135/SE/svt1hd.png" group-title="Sweden",SVT1 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/24639
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 FHD SE" tvg-logo="http://192.40.57.135/SE/svt1hd.png" group-title="Sweden",SVT1 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/45957
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 SE" tvg-logo="http://192.40.57.135/SE/svt2h.png" group-title="Sweden",SVT2 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/97058
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 HD SE" tvg-logo="http://192.40.57.135/SE/svt2h.png" group-title="Sweden",SVT2 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9654
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 FHD SE" tvg-logo="http://192.40.57.135/SE/svt2h.png" group-title="Sweden",SVT2 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/46184
+#EXTINF:-1 tvg-id="svtb.se" tvg-name="SVT Barn SE" tvg-logo="http://192.40.57.135/SE/svtb_ny.png" group-title="Sweden",SVT Barn SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9653
+#EXTINF:-1 tvg-id="svtb.se" tvg-name="SVT Barn FHD SE" tvg-logo="http://192.40.57.135/SE/svtb_ny.png" group-title="Sweden",SVT Barn FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/96946
+#EXTINF:-1 tvg-id="svt24.se" tvg-name="SVT24/B HD SE" tvg-logo="http://192.40.57.135/SE/svtb_ny.png" group-title="Sweden",SVT24/B HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11925
+#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen SE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Kunskapskanalen_HD.png/revision/latest/scale-to-width-down/200?cb=20170411231048" group-title="Sweden",SVT Kunskapskanalen SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9652
+#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen HD SE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Kunskapskanalen_HD.png/revision/latest/scale-to-width-down/200?cb=20170411231048" group-title="Sweden",SVT Kunskapskanalen HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/13258
+#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen FHD SE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Kunskapskanalen_HD.png/revision/latest/scale-to-width-down/200?cb=20170411231048" group-title="Sweden",SVT Kunskapskanalen FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/96945
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 SE" tvg-logo="http://192.40.57.135/SE/tv3hd.png" group-title="Sweden",TV3 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/34198
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 HD SE" tvg-logo="http://192.40.57.135/SE/tv3hd.png" group-title="Sweden",TV3 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9651
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 FHD SE" tvg-logo="http://192.40.57.135/SE/tv3hd.png" group-title="Sweden",TV3 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11924
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 SE" tvg-logo="http://192.40.57.135/SE/4.png" group-title="Sweden",TV4 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/30243
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 HD SE" tvg-logo="http://192.40.57.135/SE/4.png" group-title="Sweden",TV4 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/38080
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 FHD SE" tvg-logo="http://192.40.57.135/SE/4.png" group-title="Sweden",TV4 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/46499
+#EXTINF:-1 tvg-id="" tvg-name="TV4 Nyheterna HD SE" tvg-logo="http://192.40.57.135/SE/4.png" group-title="Sweden",TV4 Nyheterna HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/46260
+#EXTINF:-1 tvg-id="" tvg-name="TV4 Politik HD SE" tvg-logo="http://192.40.57.135/SE/4.png" group-title="Sweden",TV4 Politik HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/55942
+#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="TV4 Fakta SE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/TV4_Fakta_logo_2008.svg/revision/latest/scale-to-width-down/150?cb=20091122082953" group-title="Sweden",TV4 Fakta SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8234
+#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="TV4 Fakta (B) SE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/TV4_Fakta_logo_2008.svg/revision/latest/scale-to-width-down/150?cb=20091122082953" group-title="Sweden",TV4 Fakta (B) SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9646
+#EXTINF:-1 tvg-id="tv4film.se" tvg-name="TV4 Film SE" tvg-logo="http://192.40.57.135/SE/tv4film.png" group-title="Sweden",TV4 Film SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8166
+#EXTINF:-1 tvg-id="tv4film.se" tvg-name="TV4 Film (B) SE" tvg-logo="http://192.40.57.135/SE/tv4film.png" group-title="Sweden",TV4 Film (B) SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9644
+#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="TV4 Guld SE" tvg-logo="http://192.40.57.135/SE/tv4guld.png" group-title="Sweden",TV4 Guld SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8161
+#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="TV4 Guld (B) SE" tvg-logo="http://192.40.57.135/SE/tv4guld.png" group-title="Sweden",TV4 Guld (B) SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9645
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 SE" tvg-logo="http://192.40.57.135/SE/5.png" group-title="Sweden",Kanal 5 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/31056
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 HD SE" tvg-logo="http://192.40.57.135/SE/5.png" group-title="Sweden",Kanal 5 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/10051
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="http://192.40.57.135/SE/5.png" group-title="Sweden",Kanal 5 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11622
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 SE" tvg-logo="http://192.40.57.135/SE/6.png" group-title="Sweden",TV6 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/29149
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 HD SE" tvg-logo="http://192.40.57.135/SE/6.png" group-title="Sweden",TV6 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8155
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 FHD SE" tvg-logo="http://192.40.57.135/SE/6.png" group-title="Sweden",TV6 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9641
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan SE" tvg-logo="http://192.40.57.135/SE/sjuan.png" group-title="Sweden",Sjuan SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/53620
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan HD SE" tvg-logo="http://192.40.57.135/SE/sjuan.png" group-title="Sweden",Sjuan HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9633
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan FHD SE" tvg-logo="http://192.40.57.135/SE/sjuan.png" group-title="Sweden",Sjuan FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11927
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 SE" tvg-logo="http://192.40.57.135/SE/8.png" group-title="Sweden",TV8 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/8158
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 HD SE" tvg-logo="http://192.40.57.135/SE/8.png" group-title="Sweden",TV8 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/80900
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 FHD SE" tvg-logo="http://192.40.57.135/SE/8.png" group-title="Sweden",TV8 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9640
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 SE" tvg-logo="http://192.40.57.135/SE/9.png" group-title="Sweden",Kanal 9 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/30523
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 HD SE" tvg-logo="http://192.40.57.135/SE/9.png" group-title="Sweden",Kanal 9 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11304
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="http://192.40.57.135/SE/9.png" group-title="Sweden",Kanal 9 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11623
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 SE" tvg-logo="http://192.40.57.135/SE/10.png" group-title="Sweden",TV10 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/31057
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 HD SE" tvg-logo="http://192.40.57.135/SE/10.png" group-title="Sweden",TV10 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11118
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 FHD SE" tvg-logo="http://192.40.57.135/SE/10.png" group-title="Sweden",TV10 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/16914
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 SE" tvg-logo="http://192.40.57.135/SE/11.png" group-title="Sweden",Kanal 11 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/31098
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 HD SE" tvg-logo="http://192.40.57.135/SE/11.png" group-title="Sweden",Kanal 11 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9638
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="http://192.40.57.135/SE/11.png" group-title="Sweden",Kanal 11 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11926
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 SE" tvg-logo="http://192.40.57.135/SE/12.png" group-title="Sweden",TV12 SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/30522
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 HD SE" tvg-logo="http://192.40.57.135/SE/12.png" group-title="Sweden",TV12 HD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/11923
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 FHD SE" tvg-logo="http://192.40.57.135/SE/12.png" group-title="Sweden",TV12 FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/9637
+#EXTINF:-1 tvg-id="n1playboxsetfhdse.ad" tvg-name="N1 Play Box Set FHD SE" tvg-logo="https://i.ibb.co/F3Ls9N6/box-set-png.png" group-title="Sweden",N1 Play Box Set FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/133548
+#EXTINF:-1 tvg-id="n1playastridlindgren.ad" tvg-name="N1 Play Astrid Lindgren FHD SE" tvg-logo="https://i.ibb.co/vDF4Djr/astrid.png" group-title="Sweden",N1 Play Astrid Lindgren FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/118996
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Documentary FHD SE" tvg-logo="https://i.ibb.co/BPZG76g/documentary.png" group-title="Sweden",N1 Play Documentary FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/204386
+#EXTINF:-1 tvg-id="n1playcomedy.ad" tvg-name="N1 Play Comedy FHD SE" tvg-logo="https://i.ibb.co/yPx61Hh/comedy.png" group-title="Sweden",N1 Play Comedy FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/119977
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Ridiculousness FHD SE" tvg-logo="https://i.ibb.co/0csx53p/ridiculousness.png" group-title="Sweden",N1 Play Ridiculousness FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/170911
+#EXTINF:-1 tvg-id="n1playfriendssefhd.se" tvg-name="N1 Play Friends FHD SE" tvg-logo="https://i.ibb.co/k0D7sXg/friends.png" group-title="Sweden",N1 Play Friends FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/151060
+#EXTINF:-1 tvg-id="n1playdiehardfhdse.se" tvg-name="N1 Play Die Hard FHD SE" tvg-logo="https://i.ibb.co/QF2fjYN/die-hard.png" group-title="Sweden",N1 Play Die Hard FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/119669
+#EXTINF:-1 tvg-id="n1playfast&furiousfhdse.se" tvg-name="N1 Play Fast and Furious FHD SE" tvg-logo="https://i.ibb.co/wrCXSxq/fast-n-furious.png" group-title="Sweden",N1 Play Fast and Furious FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/118718
+#EXTINF:-1 tvg-id="n1playharrypotterfhdse2.ad" tvg-name="N1 Play Harry Potter FHD SE" tvg-logo="https://i.ibb.co/tZm75dC/harry-potter.png" group-title="Sweden",N1 Play Harry Potter FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/39053
+#EXTINF:-1 tvg-id="nplayringhobbitfhdse.ad" tvg-name="N1 Play Hobbit & Lord Of The Rings FHD SE" tvg-logo="https://i.ibb.co/zQB9rFM/lotr.png" group-title="Sweden",N1 Play Hobbit & Lord Of The Rings FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/120384
+#EXTINF:-1 tvg-id="n1playhorror.ad" tvg-name="N1 Play Horror FHD SE" tvg-logo="https://i.ibb.co/yypmZNd/horror.png" group-title="Sweden",N1 Play Horror FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/119591
+#EXTINF:-1 tvg-id="n1playjamesbondfhdse.se" tvg-name="N1 Play James Bond FHD SE" tvg-logo="https://i.ibb.co/QXB3ghY/james-bond.png" group-title="Sweden",N1 Play James Bond FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/118750
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Game of Thrones FHD SE" tvg-logo="https://i.ibb.co/98zsVRG/got.png" group-title="Sweden",N1 Play Game of Thrones FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/190715
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Family Guy FHD SE" tvg-logo="https://i.ibb.co/SRzr7Tz/family-guy.png" group-title="Sweden",N1 Play Family Guy FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/172331
+#EXTINF:-1 tvg-id="n1playbeckfhdse.se" tvg-name="N1 Play Beck FHD SE" tvg-logo="https://i.ibb.co/wCZ3Tqz/beck.png" group-title="Sweden",N1 Play Beck FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/161091
+#EXTINF:-1 tvg-id="n1playjohanfalkfhdse.se" tvg-name="N1 Play Johan Falk FHD SE" tvg-logo="https://i.ibb.co/5WVZ6Bb/johan-falk.png" group-title="Sweden",N1 Play Johan Falk FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/123603
+#EXTINF:-1 tvg-id="n1playjonssonliganfhdse.ad" tvg-name="N1 Play Jönssonligan FHD SE" tvg-logo="https://i.ibb.co/F8zBwKq/j-nssonligan.png" group-title="Sweden",N1 Play Jönssonligan FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/119008
+#EXTINF:-1 tvg-id="n1playlethalweaponfhdse.se" tvg-name="N1 Play Lethal Weapon FHD SE" tvg-logo="https://i.ibb.co/2KK0GBP/lethal-weapon.png" group-title="Sweden",N1 Play Lethal Weapon FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/119099
+#EXTINF:-1 tvg-id="n1playmarvelmcufhdse.se" tvg-name="N1 Play Marvel MCU FHD SE" tvg-logo="https://i.ibb.co/LP6brMs/marvel-mcu.png" group-title="Sweden",N1 Play Marvel MCU FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/118951
+#EXTINF:-1 tvg-id="n1playmarvelfhdse.se" tvg-name="N1 Play Marvel FHD SE" tvg-logo="https://i.ibb.co/cgqRhJb/marvel.png" group-title="Sweden",N1 Play Marvel FHD SE
+http://ptv.is:2095/rpCrKws1/rNZ1ya9K/139583
+#EXTINF:-1 tvg-id="n1playdcuniversefhdse.se" tvg-name="N1 Play DC Universe FHD SE" tvg-lo
